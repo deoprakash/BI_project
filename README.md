@@ -1,4 +1,4 @@
-#HR Attrition Data Analysis Project
+#Data Analysis Project
 
 **Overview**
 
